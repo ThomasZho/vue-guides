@@ -8,5 +8,3 @@ Official vue-tutorial and code created during recording sessions. This course co
 - Turnout
 
 ***
-
-Find the original course here: https://www.udemy.com/vue-web-apps/
